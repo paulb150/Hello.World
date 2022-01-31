@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <PackageId>Hello.World</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Test Author</Authors>
+    <Company>Reactsys</Company>
+    <PackageDescription>This package create a HelloWorld message</PackageDescription>
+    <RepositoryUrl>https://github.com/paulb150/Hello.World</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
